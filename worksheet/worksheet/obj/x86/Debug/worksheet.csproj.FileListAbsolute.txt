@@ -1,0 +1,14 @@
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\bin\Debug\worksheet.exe
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\bin\Debug\worksheet.pdb
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.LoginPage.resources
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.exe
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.pdb
+c:\users\samsung\documents\visual studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.MainPage.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.Description.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.csproj.ResolveComReference.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.AddUserForm.resources
+C:\Users\SAMSUNG\Documents\Visual Studio 2010\Projects\worksheet\worksheet\obj\x86\Debug\worksheet.csprojResolveAssemblyReference.cache
